@@ -5,7 +5,6 @@ This application streams data from Kafka, parses the JSON data, and prints it to
 ## Requirements
 
 - Python 3.6 or above
-- Apache Spark 3.3.0
 - PySpark
 - Jupyter Notebook
 
@@ -17,10 +16,6 @@ This application streams data from Kafka, parses the JSON data, and prints it to
 
 2. Install PySpark using pip:
 
-
-### Apache Spark
-
-1. Download and install Apache Spark 3.3.0 from the [official Apache Spark website](https://spark.apache.org/downloads.html).
 
 ## About the Application
 
